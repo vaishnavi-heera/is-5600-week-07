@@ -1,1 +1,1 @@
-export const BASE_URL = "https://crispy-fishstick-wx9prpvrr9qh5v97-3080.app.github.dev/";
+export const BASE_URL = "https://crispy-fishstick-wx9prpvrr9qh5v97-3080.app.github.dev";

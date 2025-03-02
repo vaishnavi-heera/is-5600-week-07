@@ -27,7 +27,7 @@ const CardList = () => {
   }
 
   const fetchProducts = () => {
-    fetch(`${BASE_URL}/products?offset=${offset}&limit=${limit}`)
+    fetch(`${BASE_URL}/products`)
       .then((res) => res.json())
       .then((data) => {
         setProducts(data);
